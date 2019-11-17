@@ -5,9 +5,9 @@
   <subtitle>又一个GoodHexo小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="alphabeta.github.io/"/>
+  <link href="alphtabeta.github.io/"/>
   <updated>2017-10-26T07:15:40.000Z</updated>
-  <id>alphabeta.github.io/</id>
+  <id>alphtabeta.github.io/</id>
   
   <author>
     <name>http://sobaigu.com</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo，从此开始...</title>
-    <link href="alphabeta.github.io/hello-world.html"/>
-    <id>alphabeta.github.io/hello-world.html</id>
+    <link href="alphtabeta.github.io/hello-world.html"/>
+    <id>alphtabeta.github.io/hello-world.html</id>
     <published>2017-09-05T07:15:40.000Z</published>
     <updated>2017-10-26T07:15:40.000Z</updated>
     
@@ -32,14 +32,14 @@
     
     </summary>
     
-      <category term="做网站" scheme="alphabeta.github.io/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
+      <category term="做网站" scheme="alphtabeta.github.io/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="Hexo" scheme="alphabeta.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="alphtabeta.github.io/tags/Hexo/"/>
     
-      <category term="GoodHexo" scheme="alphabeta.github.io/tags/GoodHexo/"/>
+      <category term="GoodHexo" scheme="alphtabeta.github.io/tags/GoodHexo/"/>
     
-      <category term="博客建站" scheme="alphabeta.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+      <category term="博客建站" scheme="alphtabeta.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
